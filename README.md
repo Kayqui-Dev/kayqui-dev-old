@@ -1,5 +1,9 @@
 # ⚡ Kayqui Rocha Godinho
 
+<p align="center">
+  <img src="banner.png" alt="Kayqui Rocha Godinho Banner" width="100%" />
+</p>
+
 ### Full-Stack Software Engineer & NTG Athlete (Wrestling)
 
 <p align="left">
@@ -51,6 +55,18 @@ Sou desenvolvedor **Full-Stack** focado em arquiteturas de alto rendimento, auto
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kayqui-Dev&theme=tokyonight&background=000000&ring=00A3FF&fire=00A3FF&currStreakNum=ffffff&sideNums=a1a1aa&sideLabels=a1a1aa&dates=a1a1aa&border=00A3FF&hide_border=false" width="98%" alt="Kayqui's GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Minha Grade de Contribuições (Jogo da Cobrinha!)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kayqui-Dev/Kayqui-Dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kayqui-Dev/Kayqui-Dev/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Grid Animation" src="https://raw.githubusercontent.com/Kayqui-Dev/Kayqui-Dev/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
 
 ---
