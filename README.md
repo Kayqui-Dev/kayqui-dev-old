@@ -76,3 +76,4 @@ Sou desenvolvedor **Full-Stack** focado em arquiteturas de alto rendimento, auto
 - 🥈 **Vice-Campeão Paulista** - Wrestling (CBW)
 - 💼 **Fundador** - Kodava Solutions (Automações inteligentes & IA)
 - 💻 **Full-Stack Developer** - VTP
+
